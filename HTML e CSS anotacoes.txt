@@ -1,0 +1,24 @@
+ Nomeando uma URL:
+ 
+ URL: https://twitch.tv/maccagp
+ Protocólo: https://
+ Domínio: Twitch.tv
+ TLD: .tv
+ Caminho: /maccagp
+ 
+ <h1> = título 1
+ <p> = paragrafo
+ <br> = quebra de linhas
+ &lt; = < (símbolo de menor)
+ &gt; = > (símbolo de maior)
+ Para usar emote: &#xcódigodoemote; (Exemplo: &#x1F60E;)
+
+input:password - Campo para digitar senha
+atributo de input placeholder="" - Mostra texto predeterminado no input
+
+<datalist> // Lista com opções que podem ser selecionadas ou escritas pelo usuário
+	<option value = "">
+	<option value = "">
+	<option value = "">
+	<option value = "">
+</datalist>	

@@ -1,0 +1,18 @@
+Modelo de caixas
+	- Podem ser colocadas uma dentro da outra, o termo usado é aninhamento
+	altura - height
+	largura - width
+	border: linha que circula o conteúdo
+	padding: espaço entre o conteúdo e a borda
+	margin: espaço externo, fora da borda
+	outline: fora do elemento, depois da borda
+	
+Tipos de caixa
+	box-level: <div>, <h1>-<h6>, <p>, <main>, <header>, <nav>, <form>, ...
+		sempre inicia numa linha nova
+		sempre ocupa a largura total da tela (100% viewport)
+		
+	inline-level: <span>, <a>, <code>, <small>, <strong>, <button>, ...
+		não pula para próxima linha
+		não ocupa a largura inteira
+		depois de terminar continua o conteúdo na mesma linha

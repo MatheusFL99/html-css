@@ -1,0 +1,64 @@
+https://color.adobe.com/
+https://paletton.com/
+
+//Círculo cromático
+ - Harmonia de cores: simetria, cor
+ 
+ - Cores primárias
+ 	amarelo
+ 	vermelho
+ 	azul
+ 	
+ - Cores secundárias
+ 	verde
+ 	laranja
+ 	violeta
+ 	
+ - Cores terciárias 
+ 	amarelo-esverdeado
+ 	amarelo-alaranjado
+ 	vermelho-alaranjado
+ 	vermelho-arroxeado
+ 	azul-arroxeado
+ 	azul-esverdeado
+ 	
+ - Temperatura de cores
+	(são incluidas as cores entre elas também)
+  	> cores frias:
+  		verde
+  		azul
+  		roxo
+  	> cores quentes:
+  		amarelo
+  		vermelho
+  		violeta
+  		
+ - Paleta de cores:
+  	de 3 a 5 cores (sem considerar branco e preto)
+  	
+ - Cores complementares:
+ 	Utilizar a cor no círculo cromático que é oposta da principal escolhida para gerar um contraste entre elas.
+ 	
+ - Cores análogas
+ 	Não tem contraste entre elas mas são percepitiveis, pegar as cores ao lado da cor principal.
+ 	
+ - Cores análogas e complementar
+ 	Usar 2 cores análogas e uma complementar à cor principal.
+ 	
+ - Cores análogas relacionadas
+ 	Criam degradê com uma cor complementar bem semelhante e outra não tão semelhante mas sem muito contraste entre elas.
+ 	
+ - Cores intercaladas
+ 	Criam um degradê com 2 cores cores que não são tão semelhantes entre elas mas também sem muito contraste entre elas
+
+ - Cores Triádicas
+ 	Pula 3 cores umas das outras para escolher qual cor será usada.
+ 	
+ - Cores em quadrado
+ 	Igual as cores triádicas ams em vez de pular 3 cores pulam 2.
+ 	
+ - Cores tetrádicas
+ 	Escolhe 2 cores e pega os seus extremos opostos de cores secundárias
+ 	
+ - Monocromia
+ 	Escolhe apenas uma cor e altera a saturação e luminosidade para gerar as outras cores que vão ser usadas.
