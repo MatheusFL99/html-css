@@ -1,2 +1,2 @@
 # html-css
- Aprendendo HTML e CSS3 cursoemvideo
+ Aprendendo e praticando HTML e CSS3 e a gerenciar repositórios
